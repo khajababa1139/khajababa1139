@@ -29,7 +29,6 @@
 
 - 🔭 I’m currently working on ReactJS and Python ML
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **[Any problem you need help with]**
 - 💬 Ask me about **anything**
 - 📫 How to reach me **estyak.ahamedd1139@gmail.com**
 - ⚡ Fun fact **[Im not lazy, im just efficient]**
