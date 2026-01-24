@@ -1,76 +1,77 @@
-<h1 align="center">Hi 👋, I'm Estyak Ahamed</h1>
-<h3 align="center">A Web developer and ML enthusiast from Bangladesh</h3>
+# Estyak Ahamed
+# MechE at BUET | Software and Drone Team Lead, Team interplanetar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=Welcome+to+my+GitHub+Profile;I'm+a+Full-Stack+Developer;I+love+Open+Source;Let's+build+something+great!">
-</p>
+##  Connect with Me
 
-<!-- Social icons -->
-<p align="center">
-  <a href="https://twitter.com/khajababa" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/estyak-ahamed-023713234/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:estyak.ahamedd1139@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<!-- Profile views and GitHub Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=8A2BE2&style=flat" alt="khajababa" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/estyak1139)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estyak.ahamedd1139@gmail.com)
 
 ---
 
-### 🧑‍💻 About Me:
+## 👋 Welcome to My GitHub Profile
 
-- 🔭 I’m currently working on ReactJS and Python ML
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **anything**
-- 📫 How to reach me **estyak.ahamedd1139@gmail.com**
-- ⚡ Fun fact **[Im not lazy, im just efficient]**
+I am a passionate mechanical engineer and software developer with expertise spanning robotics, AI systems, DevOps, and Control engineering. Currently driving innovation as a Software and Drone Team Leader at Team interplanetar.
 
 ---
 
-### 🚀 Languages and Tools:
+## 🛠️ Skills & Projects
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" /> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" /> 
-  </a>
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python" /> 
-  </a>
-  <a href="https://www.ros.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ros-%231660cc.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ros" /> 
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" /> 
-  </a>
-</p>
+### 🚀 NVIDIA Jetson Development
+- **Overview:** Advanced proficiency in NVIDIA Jetson ecosystems for deploying edge AI inference, embedded vision applications, and real-time robotics systems with optimized performance characteristics.
+
+- **Projects:**
+  1. [Team Interplanetar Rover](https://buetinterplanetar.com/)
+  2. [VLM on Jetson](https://www.linkedin.com/posts/estyak1139_nvidia-jetsonorinnano-edgeai-activity-7409102107523375105-Tz7h?utm_source=share&utm_medium=member_desktop&rcm=ACoAADp7eVsBpVWo3e4Dw-Rh60OuDrUAmJJVwps)
+---
+### 🐳 DevOps & Microservices
+- **Overview:** Intermediate-grade proficiency in distributed systems architecture, containerization (Docker/Kubernetes), CI/CD pipeline orchestration, infrastructure automation, and scalable microservices design patterns for production environments.
+
+- **Participation:**
+  1. [CUET Televerse Microservices Hackathon 2025](https://www.eteteleverse.com/) (On-site)
+  2. [BUET CSE Fest AI & API Hackathon 2024](https://www.facebook.com/p/BUET-CSE-Fest-2024-61566249745875/) (Preliminary)
+---
+
+### 🗺️ SLAM (Simultaneous Localization and Mapping)
+- **Overview:** Comprehensive implementation experience with classical and modern SLAM methodologies, facilitating real-time spatial mapping and localization for autonomous systems and robotic navigation in complex environments.
+
+- **Projects:**
+  1. [TensorRT accelerated 3D PointCloud with Monocular Camera](https://www.linkedin.com/posts/estyak1139_computervision-ai-robotics-activity-7413910286535073792-ryBY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADp7eVsBpVWo3e4Dw-Rh60OuDrUAmJJVwps)
+
+---
+### 🧠 Machine Learning & Deep Learning
+- **Overview:** Proficient in architecting, training, and deploying state-of-the-art neural networks for computer vision, natural language processing, time-series analysis, and domain-specific applications across diverse computational platforms.
+
+- **Projects:**
+  1. [CAD Generation with Camera](https://www.linkedin.com/posts/estyak1139_icme-buet-activity-7407804161473495040-TMYO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADp7eVsBpVWo3e4Dw-Rh60OuDrUAmJJVwps)
+---
+### 💧 Nanofluids Simulation
+- **Overview:** Expertise in computational fluid dynamics and materials science, specializing in nanofluids simulation in LAMMPS.
+- **Projects:**
+  1. [Study of Ar-Cu Nanochannel]()
+  2. [Study of Ga-N Binary Mixture]()
+---
+
+### ⚙️ Autonomous Control System
+- **Overview:** Sophisticated design and implementation of adaptive control algorithms, feedback systems, and autonomous decision-making frameworks for unmanned vehicles, robotic systems, and industrial automation applications.
+- **Projects:**
+  1. [ME366 - Aquabot](https://github.com/khajababa1139/ME366-Aquabot)
+  2. [ATMEGA32 Fire Bot](https://github.com/khajababa1139/CSE316---Fire-Bot)
+---
+### 🤖 Agentic AI
+- **Overview:** Research-driven development of autonomous intelligent agents employing reinforcement learning, hierarchical decision-making frameworks, and multi-agent coordination protocols for complex problem-solving scenarios.
+---
+### 🚁 Drone Development
+- **Overview:** End-to-end expertise in PixHawk firmware development, control algorithm implementation in Raspberry Pi, and mission planning + 3D mapping in GPS denied environment.
+- **Projects:**
+  1. [Team Interplanetar GPS-denied Drone](https://buetinterplanetar.com/)
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khajababa1139&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khajababa1139&layout=compact&theme=radical)
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khajababa1139&show_icons=true&theme=tokyonight" alt="khajababa's stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khajababa1139&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khajababa1139&theme=tokyonight" alt="khajababa's trophies" />
-</p>
+*Feel free to explore my repositories and connect with me!*
