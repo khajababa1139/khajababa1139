@@ -17,7 +17,7 @@ I am a passionate mechanical engineer and software developer with expertise span
 ## 🛠️ Skills & Projects
 
 ### 🚀 NVIDIA Jetson Development
-- **Overview:** Advanced proficiency in NVIDIA Jetson ecosystems for deploying edge AI inference, embedded vision applications, and real-time robotics systems with optimized performance characteristics.
+- **Overview:** Advanced proficiency in NVIDIA Jetson ecosystems for deploying edge AI inference, embedded vision applications, and real-time robotics systems with optimized performance characteristics. Jetson - Orin Nano, Xavier NX, Nano
 
 - **Projects:**
   1. [Team Interplanetar Rover](https://buetinterplanetar.com/)
