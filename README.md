@@ -45,7 +45,7 @@ I am a passionate mechanical engineer and software developer with expertise span
   1. [CAD Generation with Camera](https://www.linkedin.com/posts/estyak1139_icme-buet-activity-7407804161473495040-TMYO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADp7eVsBpVWo3e4Dw-Rh60OuDrUAmJJVwps)
 ---
 ### 💧 Nanofluids Simulation
-- **Overview:** Expertise in computational fluid dynamics and materials science, specializing in nanofluids simulation in LAMMPS.
+- **Overview:** Expertise in computational fluid dynamics and materials science, specializing in nanofluids simulation in [LAMMPS](https://www.lammps.org/).
 - **Projects:**
   1. [Study of Ar-Cu Nanochannel]()
   2. [Study of Ga-N Binary Mixture]()
