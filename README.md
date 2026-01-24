@@ -1,5 +1,5 @@
 # Estyak Ahamed
-# MechE at BUET | Software and Drone Team Lead, Team interplanetar
+# MechE at BUET | Software & Drone Team Lead, Team Interplanetar
 
 ##  Connect with Me
 
